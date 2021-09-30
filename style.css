@@ -1,0 +1,32 @@
+
+header h1{
+    color: red;
+}
+header ul{
+        
+        list-style: none;
+        display: flex;
+        justify-content: center;
+    }
+header ul li{
+    padding: 10px;
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    list-style: inside;
+}
+body h2{
+    color: blue;
+}
+
+body h3{
+    color: goldenrod;
+}
+
+body img{
+    width: 200px;
+}
+
